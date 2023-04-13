@@ -1158,7 +1158,6 @@ about wow fadeInUp
     align-items: center;
     justify-content: flex-start;
 }
-
 .team .team-social a.btn {
     width: 35px;
     height: 35px;
@@ -1594,4 +1593,13 @@ about wow fadeInUp
         line-height: 16px;
         padding: 0 5px;
     }
+	.hero .container-fluid {
+    padding-bottom:170px;
+   }
+   .team .team-img img {
+    position: relative;
+    width: 144%;
+    transition: 0.5s;
+	right:38px;
 }
+}	
